@@ -1,0 +1,120 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+.navbar-default .navbar-nav>li>a{
+	color: white;
+	font-weight: bolder;
+}
+.navbar-default .navbar-brand{
+	color: white;
+	font-weight: bolder;
+}
+.first{
+	background-image: url(../img/portada.jpg);
+	background-repeat: no-repeat;
+	height: 100vh;
+	background-size: cover;
+	background-position: center center;
+}
+
+
+.navbar-default{
+	background-color: transparent;
+	border: transparent;
+}
+.blanco{
+	color: white;
+	font-weight: bolder;
+}
+.verde{
+	color: #41521F;
+	font-weight: bolder;
+}
+.caja1{
+	margin-top: 100px;
+	padding: 70px;
+	margin-right: 100px;
+}
+.caja1 p{
+	font-size: 12px;
+}
+.boton{
+	color: white;
+	font-weight: bolder;
+	background-color: #41521F;
+	border-color: #41521F;
+}
+
+.imagen{
+	width: 100%;
+}
+.cafe{
+	color:#A89F68;
+	font-weight: bolder;
+}
+.cont-izq{
+	padding: 30px;
+}
+.cont-der{
+	padding: 30px;
+	margin-top: 50px;
+}
+.third{
+	background-color: #A89F68;
+	padding: 50px;
+}
+.imagen2{
+	width: 100%;
+	border: 7px solid white;
+}
+.fourth{
+	background-image: url(../img/all.jpg);
+	background-repeat: no-repeat;
+	height: 120vh;
+	background-size: cover;
+	background-position: center center;
+	padding: 30px;
+}
+.fifth{
+	padding: 30px;
+}
+.espacio{
+	padding-bottom: 30px;
+}
+.icon{
+	font-size: 55px;
+	padding: 10px;
+}
+.sixth{
+	background-color: #A89F68;
+	padding: 30px;
+}
+.negrita{
+	font-weight: bolder;
+}
+.chico{
+	font-size: 12px;
+	font-weight: normal;
+	margin-top: 10px;
+	position: absolute;
+}
+.grande{
+	font-size: 60px;
+	font-weight: normal;
+}
+.normal{
+	font-weight: normal;
+}
+.linea{
+	border-bottom: 1px solid white;
+	text-align: center;
+	padding: 10px;
+}
+.espacio{
+	padding: 10px;
+}
+.seventh{
+	background-color: #41521F;
+	padding: 50px;
+}
